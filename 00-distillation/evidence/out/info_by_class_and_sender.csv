@@ -1,0 +1,9 @@
+sender,other,machine coordination,freeze/ack,status/heartbeat,ack/received/eta,resend,total
+SENIOR_ENGINEER-1,29,33,1,2,0,0,65
+SENIOR_ENGINEER-2,15,16,4,1,1,0,37
+SENIOR_ENGINEER-3,23,21,4,3,2,0,53
+SENIOR_ENGINEER-4,41,18,6,8,5,1,79
+TECH_LEAD,124,129,55,17,3,7,335
+ARCHITECT,25,7,1,3,1,0,37
+CODE_REVIEWER,8,1,1,0,0,0,10
+QA,12,15,2,0,1,1,31

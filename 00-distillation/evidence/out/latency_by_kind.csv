@@ -1,0 +1,7 @@
+kind,pairs,negative_by_name,negative_by_mtime,n_name,median_name_min,p90_name_min,max_name_min,n_mtime,median_mtime_min,p90_mtime_min,max_mtime_min
+other,833,240,6,564,30.7,1456.6,5581.1,827,9.1,35.8,5581.6
+TASK>REPORT,213,42,0,163,50,989.8,12145.4,213,13.9,57.8,13587.9
+REPORT>VERDICT,145,17,10,125,35,2006,5120,135,11.5,73.1,5054.3
+QUESTION>ANSWER,44,18,0,26,19.5,130.8,2963,44,13.3,32.7,5531.1
+REQUEST>ANSWER,24,6,0,18,16.2,1415.6,2035,24,10,108.7,1945.5
+REQUEST>REPORT,11,4,0,7,41.7,92.1,92.8,11,13.6,57.2,59.3

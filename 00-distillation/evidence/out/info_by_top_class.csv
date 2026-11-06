@@ -1,0 +1,7 @@
+info_class,count,share_pct
+other,277,42.8
+machine coordination,240,37.1
+freeze/ack,74,11.4
+status/heartbeat,34,5.3
+ack/received/eta,13,2
+resend,9,1.4
